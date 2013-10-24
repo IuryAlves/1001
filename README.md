@@ -14,3 +14,7 @@ Os códigos devem estar de acordo com os requisitos abaixo:
 * O código deve conter testes ou exemplos de uso para que possa ser avaliado rapidamente, e não pode ser muito extenso (i.e. verboso).
 * O patch deve consistir em apenas um arquivo, cujo nome deve seguir o formato nome-algoritmo.py, onde 'nome-algoritmo' é o nome abreviado, minúsculo e sem espaços ou acentos.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/IuryAlves/1001/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
